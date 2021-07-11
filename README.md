@@ -1,13 +1,12 @@
 # Team Chat App using React Js
 
 ### [Live Site](https://developerstacks-community.netlify.app/)
-<p>U:test</p>
-<p>P:1234</p>
-
 <p align="center">
 <img src="/src/assets/images/Live-Chat.png" width="100%">
 </p>
 
+<p>U:test</p>
+<p>P:1234</p>
 ---
 
 ## Introduction
